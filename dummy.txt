@@ -1,1 +1,3 @@
 Entry point : New line added
+
+This file is added by user1
